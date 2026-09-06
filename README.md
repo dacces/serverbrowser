@@ -3,7 +3,7 @@ This is a script that would find the servers in the game that ur in needs a good
 uses screengui for uis and has custom fonts loading from i77lhm repos, you can easily freely use this in any script or in your
 projects, i do not care.
 
-also the "Copy join" copies ur server join script so other people who have a executor can execute ur join script to join your server.
+The "Copy join" copies ur server join script so other people who have a executor can execute ur join script to join your server.
 
 example:
 
