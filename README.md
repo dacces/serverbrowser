@@ -14,6 +14,12 @@ game:GetService("TeleportService"):TeleportToPlaceInstance(
 )
 ```
 
+# How to use
+Hover to the title of the User Interface which would be "Servers" text and youll get a refresh image, when you click it itll
+refresh the list so u get new updated servers.
+
+<img width="63" height="36" alt="image" src="https://github.com/user-attachments/assets/54c0af67-5ea1-4bf3-aa79-887cd6b7de61" />
+
 # Script
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/dacces/serverbrowser/main/Code.lua"))()```
 
