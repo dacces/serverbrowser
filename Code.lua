@@ -1,14 +1,16 @@
 --// Services
-local Players = game:GetService("Players")
-local TeleportService = game:GetService("TeleportService")
-local HttpService = game:GetService("HttpService")
-local UserInputService = game:GetService("UserInputService")
-local TweenService = game:GetService("TweenService")
+    local Players = game:GetService("Players")
+    local TeleportService = game:GetService("TeleportService")
+    local HttpService = game:GetService("HttpService")
+    local UserInputService = game:GetService("UserInputService")
+    local TweenService = game:GetService("TweenService")
+--
 
 --// Folders
-local AssetFolder = "ServerBrowser/assets"
-if not isfolder("ServerBrowser") then makefolder("ServerBrowser") end
-if not isfolder(AssetFolder) then makefolder(AssetFolder) end
+    local AssetFolder = "ServerBrowser/assets"
+    if not isfolder("ServerBrowser") then makefolder("ServerBrowser") end
+    if not isfolder(AssetFolder) then makefolder(AssetFolder) end
+--
 
 --// Fonts
     local Fonts = {}
