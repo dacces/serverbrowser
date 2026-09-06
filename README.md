@@ -1,5 +1,4 @@
 # Server browser
-
 This is a script that would find the servers in the game that ur in needs a good executor that has writefile and alot of stuff
 uses screengui for uis and has custom fonts loading from i77lhm repos
 
@@ -26,3 +25,5 @@ refresh the list so u get new updated servers.
 # Preview
 <img width="320" height="423" alt="image" src="https://github.com/user-attachments/assets/ecef4de0-c10d-4dd3-bb69-aa973b14f3f8" />
 <img width="320" height="423" alt="image" src="https://github.com/user-attachments/assets/68a37448-5b98-4328-af74-35b350011ccf" />
+
+# 
