@@ -546,7 +546,7 @@ end
 
 local function fetchServers()
     clearCards()
-    local url = ("https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Asc&limit=100"):format(currentPlaceId)
+    local url = ("https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Des&limit=100"):format(currentPlaceId)
     local ok, result = pcall(function() return game:HttpGet(url) end)
     if not ok or not result then
         if result and tostring(result):find("429") then
